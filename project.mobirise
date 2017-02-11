@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IPSO FACTO",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "spacem",
       "title": "SpaceM",
@@ -21,7 +21,7 @@
     "versionFirst": "3.11.1",
     "uniqCompNum": 42,
     "versionPublish": "3.11.1",
-    "favicon": "@PROJECT_PATH@/assets/images/ipso-facto4.gif",
+    "favicon": "@PROJECT_PATH@/assets/images/ipso-facto5.gif",
     "noImageResize": "",
     "scrollAnimation": ""
   },
